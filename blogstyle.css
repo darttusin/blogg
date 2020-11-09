@@ -1,0 +1,23 @@
+.zagolovok {
+    border-bottom: solid grey;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 45px;
+    font-family: 'Courier New', Courier, monospace;
+    color:ghostwhite;
+    padding:10px 10px 0 10px;
+}
+body {
+    background-color: rgb(0, 0, 0);
+    margin:0;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color:grey;
+    
+}
+h1,h2,h3,h4,h5,h6 {
+    border-bottom: solid rgba(197, 0, 0,0.5);
+    font-family: 'Syne Mono', monospace;
+    color:grey;
+    padding-bottom: 1px;
+}
